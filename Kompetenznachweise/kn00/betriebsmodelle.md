@@ -6,7 +6,7 @@
 
 #### On-Premises
 
-Ein On-Premises-Betriebsmodell bedeutet, dass eine Firma ihre eigenen Computer und Server besitzt und in einem speziellen Raum oder Gebäude betreibt. Diese Computer speichern und verarbeiten alle Informationen der Firma.
+Ein On-Premises-Betriebsmodell bedeutet, dass eine Firma ihre eigenen Computer und Server besitzt und in einem Raum oder Gebäude betreibt. Diese Computer speichern und verarbeiten alle Informationen der Firma.
 
 Mit dem On-Premises-Modell hat die Firma die volle Kontrolle über ihre Computer, muss aber auch für den Kauf, die Wartung und die Sicherheit dieser Computer selbst sorgen.
 
@@ -27,3 +27,9 @@ In einer Hybrid Cloud verwendet eine Firma sowohl eine eigene private Cloud als 
 Eine Public Cloud ist für alle User zugänglich, wie zum Beispiel eine Webseite. Netfix ist beispielsweise auf einer Public Cloud.
 Eine Private Cloud hingegen ist nur von der Firma zugänglich, sprich die Firma entschiedet wer alles Zugriff hat.
 
+
+### Quellen:
+
+- [ChatGPT](https://chat.openai.com/)
+- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN00/x_res/Betriebsmodelle.md)
+- Marwin Kohl
