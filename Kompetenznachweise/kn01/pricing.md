@@ -38,3 +38,6 @@
 | SUSE | 216 USD |
 | RHEL | 187.2 USD |
 
+#### source:
+- [AWS academy](https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LaunchInstances:)
+

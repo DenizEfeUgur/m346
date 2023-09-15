@@ -4,7 +4,7 @@
 
 # Inhaltsverzeichnis
 
-- [Kn00](/Kompetenznachweise/kn00.md)
+- [Kn00](/Kompetenznachweise/kn00/betriebsmodelle.md)
 - [Kn01]()
 - [Kn02]()
 - [Kn03]()

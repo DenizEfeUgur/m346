@@ -43,6 +43,9 @@ Software as a service ist einfach, dass man sich nur um die Software kümmern mu
 - Bereitstellen von Datenbanken
 
 - Übernimmt funktionsbereich
+  
+
+![Betriebsmodelle](https://www.ionos.at/digitalguide/fileadmin/DigitalGuide/Screenshots/schematische-darstellung-der-cloud-service-modelle.png)
 
 ---
 

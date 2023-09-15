@@ -27,6 +27,7 @@ In einer Hybrid Cloud verwendet eine Firma sowohl eine eigene private Cloud als 
 Eine Public Cloud ist für alle User zugänglich, wie zum Beispiel eine Webseite. Netfix ist beispielsweise auf einer Public Cloud.
 Eine Private Cloud hingegen ist nur von der Firma zugänglich, sprich die Firma entschiedet wer alles Zugriff hat.
 
+![](https://4acc.com/wp-content/uploads/2021/04/Infographics.jpg)
 
 ### Quellen:
 
