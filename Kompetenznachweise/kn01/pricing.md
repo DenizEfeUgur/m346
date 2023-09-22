@@ -4,7 +4,6 @@
 0.0162 USD pro Stunde (Windows)
 0.0716 USD pro Stunde (RHEL)
 
----
 
 ### Technische Details
 
@@ -25,7 +24,6 @@
 0.384 USD pro Stunde (Windows)
 0.26 USD pro Stunde (REHL)
 
----
 
 ### Technische Details
 

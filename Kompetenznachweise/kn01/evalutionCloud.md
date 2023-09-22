@@ -51,4 +51,4 @@
 - **Sicherheitsbedenken:** Obwohl Cloud-Anbieter Sicherheitsmaßnahmen implementieren, müssen Kunden immer noch sicherstellen, dass ihre Daten sicher sind. Die Kontrolle über die Sicherheit kann eingeschränkt sein.
 
 ### Lösungsvorschlag
-m4.xlarge ist die beste und effizienteste Option.
+m4.xlarge ist die beste und effizienteste Option, da sie am meisten Leistung bietet.
