@@ -9,7 +9,7 @@ users:
     home: /home/ubuntu
     shell: /bin/bash
     ssh_authorized_keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0WGP1EZykEtv5YGC9nMiPFW3U3DmZNzKFO5nEu6uozEHh4jLZzPNHSrfFTuQ2GnRDSt+XbOtTLdcj26+iPNiFoFha42aCIzYjt6V8Z+SQ9pzF4jPPzxwXfDdkEWylgoNnZ+4MG1lNFqa8aO7F62tX0Yj5khjC0Bs7Mb2cHLx1XZaxJV6qSaulDuBbLYe8QUZXkMc7wmob3PM0kflfolR3LE7LResIHWa4j4FL6r5cQmFlDU2BDPpKMFMGUfRSFiUtaWBNXFOWHQBC2+uKmuMPYP4vJC9sBgqMvPN/X2KyemqdMvdKXnCfrzadHuSSJYEzD64Cve5Zl9yVvY4AqyBD aws-key       
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCv0e6xuTLm5z6OqUL1E1z9fLc1ii6XZ1MAbKf1jthumJtA+MfTAAkXTxjNCwlBw9uvC8OExImH+WiNp1j/WI1eMVIn9Ee9cTVlQMKQucBRJQimcWR+rRICvzDobYv+y3En546xbWeVvbC0JbmLpB9UE/tGJ2KljTSCBp0k+Ki3xcDmkVA0nLz+oYFEtH6WDpJRHr8gJlwesf0Tf6iUGVpJzUIIyWlV1yBrRWVT4+Zao3bqmRVhgNOaBjuP1mzL1pwn1ZvLwD0bMEPMjQG9ynClygYrSXlWUQOdmO/oGlQx9nMdN5e24bQu/COLNvufVHBGhBnHJs48+BehwSjxDtEh imported-openssh-key
 ssh_pwauth: false
 disable_root: false 
 package_update: true
@@ -20,10 +20,15 @@ packages:
 ```
 
 **name: ubuntu:** Der Benutzername ist "ubuntu".
+
 **sudo: ALL=(ALL) NOPASSWD:ALL:** Der Benutzer "ubuntu" kann alle Befehle mit sudo ohne Passwort ausführen. Dies ist eine sudo-Berechtigungsregel.
+
 **groups: users, admin:** Der Benutzer ist Mitglied der Gruppen "users" und "admin".
+
 **home: /home/ubuntu:** Das Heimatverzeichnis des Benutzers ist "/home/ubuntu".
+
 **shell: /bin/bash:** Die Standard-Shell des Benutzers ist "/bin/bash".
+
 **ssh_authorized_keys:** Hier werden die SSH-öffentlichen Schlüssel für den Benutzer "ubuntu" angegeben, die es ihm ermöglichen, sich ohne Passwortanforderung per SSH anzumelden.
 
 ``` yaml
