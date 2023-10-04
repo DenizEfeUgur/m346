@@ -1,5 +1,5 @@
-### Auftrag C
-Zuerst habe ich den public key von herr calisto in meinen code implementiert
+## Auftrag C
+### Zuerst habe ich den public key von herr Calisto in meinen code implementiert
 ``` yaml
 #cloud-config
 users:
@@ -19,6 +19,9 @@ packages:
   - curl
   - wget
 ```
+
+### Dann habe ich denn public key von ihm in meiner instance hinzugefügt:
+![Alt text](./Screenshot%202023-10-04%20at%2016.45.34.png)
 
 Ich musste noch bei der inbound rule eine regel hinzufügen, dass man mit ssh darauf zugreifen kann.
 ![Alt text](image-3.png)

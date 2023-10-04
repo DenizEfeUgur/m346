@@ -1,7 +1,9 @@
 #### Public Key generiert
+Zuerst habe ich mithilfe von puTTY Key Generator einen public key generiert.
 ![Alt text](image-1.png)
 
 #### angepasste yaml file
+Dann habe ich den generierten public Key in die YAML file eingefügt
 ``` yaml
 #cloud-config
 users:
@@ -20,5 +22,10 @@ packages:
   - wget 
 ```
 
-#### Alles funktioniert! 🤯
+#### Mit dem falschen key probiert
+![Alt text](../kn02/image-11.png)
+
+
+
+#### Mit dem richtigen key probiert und alles funktioniert! 🤯
 ![Alt text](image.png)
