@@ -26,6 +26,7 @@ packages:
 ![Alt text](../kn02/image-11.png)
 
 
-
 #### Mit dem richtigen key probiert und alles funktioniert! 🤯
-![Alt text](image.png)
+![Alt text](image-4.png)
+#### Hier ist der output von der log file
+![Alt text](image-5.png)

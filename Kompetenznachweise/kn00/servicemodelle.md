@@ -49,7 +49,7 @@ Software as a service ist einfach, dass man sich nur um die Software kümmern mu
 
 ---
 
-## Source
+### Quelle
 
 - [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN00/x_res/Servicemodelle.md)
 - [ChatGPT](https://openai.com/chat)

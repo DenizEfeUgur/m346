@@ -52,3 +52,7 @@
 
 ### Lösungsvorschlag
 m4.xlarge ist die beste und effizienteste Option, da sie am meisten Leistung bietet.
+
+### Quelle
+- [gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN04/KN04.md)
+- [chatGPT](https://chat.openai.com/)

@@ -29,7 +29,9 @@ Eine Private Cloud hingegen ist nur von der Firma zugänglich, sprich die Firma 
 
 ![](https://4acc.com/wp-content/uploads/2021/04/Infographics.jpg)
 
-### Quellen:
+<hr>
+
+### Quelle:
 
 - [ChatGPT](https://chat.openai.com/)
 - [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN00/x_res/Betriebsmodelle.md)
