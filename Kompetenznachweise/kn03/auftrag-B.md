@@ -29,6 +29,6 @@ packages:
 ![Alt text](image-4.png)
 
 ### Erklärung warum nur ein key funktioniert
-Es funktioniert nur 1 key, da ich in der Insanz nur den einen Key defniniert habe und man auch nur mit dem Private key von diesem Key sich verbinden kann.
+Es funktioniert nur ein key, da ich in der Insanz nur den einen Key defniniert habe und man auch nur mit dem Private key von diesem Key sich verbinden kann.
 #### Hier ist der output von der log file
 ![Alt text](image-5.png)

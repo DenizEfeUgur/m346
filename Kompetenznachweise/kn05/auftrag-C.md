@@ -1,0 +1,1 @@
+### Installation von zwei EC2-Instanzen mit unterschiedlichen Security Groups
