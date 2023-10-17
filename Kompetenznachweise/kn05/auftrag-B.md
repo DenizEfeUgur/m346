@@ -32,13 +32,15 @@ Name: M346-UGU-IGW
 VPC: M346-UGU-VPC
 
 
-#### Das hier ist der VPC den ich erstellt habe
+#### Das hier ist die VPC den ich erstellt habe
 ![Alt text](image-9.png)
 #### Hier sieht man noch die Subnets mit der die VPC verbunden ist
 ![Alt text](image-5.png)
 #### Das hier ist mein Internet Gateway
-![Alt text](image-6.png)
+![Alt text](image-12.png)
 #### Hier sieht man das ich das ich das Internet Gateway erstellt habe
 ![Alt text](image-7.png)
 #### Nun habe ich es noch verbunden mit den Route tables
 ![Alt text](image-8.png)
+#### Hier habe ich die beiden public subnets noch so konfiguriert, dass alle darin erstellten Instanzen automatisch eine IPv4-Adresse bekommen
+![Alt text](image-11.png)
