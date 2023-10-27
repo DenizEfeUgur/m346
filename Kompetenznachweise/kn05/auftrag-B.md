@@ -44,3 +44,6 @@ VPC: M346-UGU-VPC
 ![Alt text](image-8.png)
 #### Hier habe ich die beiden public subnets noch so konfiguriert, dass alle darin erstellten Instanzen automatisch eine IPv4-Adresse bekommen
 ![Alt text](image-11.png)
+
+### Quelle
+- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN05/KN05.md)

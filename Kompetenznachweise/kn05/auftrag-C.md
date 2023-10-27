@@ -3,10 +3,10 @@
 #### Hier sind beide Instanzen die ich erstellt habe
 ![Alt text](image-13.png)
 
-#### Private Instanz
+#### Hier ist meine Private Instanz
 ![Alt text](image-14.png)
 
-#### Webserver
+#### Hier ist mein Webserver
 ![Alt text](image-15.png)
 
 #### Die Verbindung mit dem Webserver funktioniert
@@ -18,7 +18,13 @@
 #### Ich konnte meine Private Instanz pingen🤯
 ![Alt text](image-19.png)
 
-//todo
-Erklären Sie in eigenen Worten, wie Sie die zweite Security Group (M346-XXX-Priv-Only) ergänzt haben und wer welchen Zugriff auf die darin liegenden Instanzen hat.
+### Erklären Sie in eigenen Worten, wie Sie die zweite Security Group (M346-UGU-Priv-Only) ergänzt haben und wer welchen Zugriff auf die darin liegenden Instanzen hat.
 
- Wie sieht es aus bzgl. Redundanz / Hochverfügbarkeit? Geben Sie dazu eine technisch sinnvolle Analyse ab (inkl. Massnahmen); ohne dass der Coach Sie darauf aufmerksam macht. Hier wird geschaut, wie ausgeprägt Sie sich auf das Fachgespräch vorbereiten und ob Sie die Inhalte des Auftrages ganzheitlich durchlesen und erfüllen.
+Ich haben die inbound rule "All ICMP - IPv4" hinzugefügt, welche hier ist, um Instanzen pingen zu können
+
+Eine Instanz, mit der Security group M346-UGU-Priv-Only kann von einer Instanz in dem gleichen subnetz gepingt werden.
+
+### Quelle
+- [chatGPT](https://chat.openai.com/)
+- [AWS documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)
+- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN05/KN05.md)
