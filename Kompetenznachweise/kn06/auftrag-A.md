@@ -82,3 +82,6 @@ AWS Auto Scaling ist ein verwalteter Dienst von Amazon Web Services, der entwick
 
 Elastic Load Balancing (ELB) ist ein wichtiger Bestandteil von AWS Auto Scaling. ELB verteilt den eingehenden Datenverkehr auf die EC2-Instanzen in einer Auto Scaling-Gruppe. In Kombination mit Auto Scaling gewährleistet ELB eine gleichmäßige Verteilung des Datenverkehrs auf die Instanzen, während Auto Scaling die Anzahl der Instanzen entsprechend der Last erhöht oder verringert. Dies sorgt für eine bessere Verfügbarkeit und Leistung von Anwendungen, da die Last auf die Instanzen je nach Bedarf skaliert wird.
 
+### Quelle
+- [chatGPT](https://chat.openai.com/)
+- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN06/KN06.md)

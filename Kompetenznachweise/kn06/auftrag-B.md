@@ -18,3 +18,6 @@ Hier sieht man, dass ich auf die public DNS vom loadbalancer zugreife und ich au
 
 Hier kann man sehen, dass ich auf die gleiche domain zugreife, aber auf eine andere EC2 Instanz geleitet werde.
 ![Alt text](image-5.png)
+
+### Quelle
+- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN05/KN05.md)
