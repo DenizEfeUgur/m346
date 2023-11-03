@@ -20,4 +20,4 @@
 ![Alt text](image-5.png)
 
 ### Quelle
-- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN05/KN05.md)
+- [Gitlab](https://gitlab.com/ser-cal/m346/-/blob/main/KN06/KN06.md)

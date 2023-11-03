@@ -30,6 +30,9 @@
 - **kn06**
   - [Auftrag A](/Kompetenznachweise/kn06/auftrag-A.md)
   - [Auftrag B](/Kompetenznachweise/kn06/auftrag-B.md)
+  - [Auftrag C](/Kompetenznachweise/kn06/auftrag-C.md)
+  - [Auftrag D](/Kompetenznachweise/kn06/auftrag-D.md)
+  - [Auftrag E](/Kompetenznachweise/kn06/auftrag-E.md)
 
 
 
